@@ -2,7 +2,7 @@
 A SWING based text editor with Open, Save, Search features. 
 Task additionally covers "RegEx & "Multithreading" topics.
 https://hyperskill.org/projects/38
-<img src="https://github.com/zagzag2011/hyperskill-textEditor/blob/master/TextEditor.gif" width="800" height="500" />
+<img src="https://github.com/zagzag2011/hyperskill-TextEditor/blob/master/TextEditor.gif" width="800" height="500" />
 
 
 ## Syntax:
