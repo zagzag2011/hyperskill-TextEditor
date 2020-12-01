@@ -8,8 +8,11 @@ https://hyperskill.org/projects/38
 
 
 ## Syntax:
-TextEditor.jar
+```
+./gradlew build
 
+java -jar TextEditor.jar
+```
 ## Stages:
 ### Stage 1: A window to editing
 Using your competence in inheritance and newly acquired knowledge of SWING, create a window where the user can enter a text.
