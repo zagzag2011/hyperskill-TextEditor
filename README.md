@@ -1,9 +1,10 @@
 # hyperskill-TextEditor
-A SWING based text editor with Open, Save, Search features.</br> 
-Task additionally covers "RegEx & "Multithreading" topics.</br>
+A **SWING** based text editor with **Open, Save, Search** features.</br> 
+Task additionally covers **RegEx _&_ Multithreading** topics.</br>
 
 https://hyperskill.org/projects/38
-<img src="https://github.com/zagzag2011/hyperskill-TextEditor/blob/main/TextEditor.gif" width="600" height="300" />
+
+<img src="https://github.com/zagzag2011/hyperskill-TextEditor/blob/main/TextEditor.gif" width="600" height="350" />
 
 
 ## Syntax:
