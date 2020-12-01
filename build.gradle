@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+}
+
+group 'tk.mgdev'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+    maven { url "https://jitpack.io" }
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    implementation 'com.github.stefanbirkner:system-rules:1.19.0'
+    testCompile 'org.assertj:assertj-swing-junit:3.8.0'
+    testImplementation 'com.github.hyperskill:hs-test:v6.0.1'
+}
+jar {
+    manifest {
+        attributes 'Main-Class': 'tk.mgdev.ApplicationRunner'
+    }
+}
